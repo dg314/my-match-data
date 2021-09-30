@@ -22,6 +22,6 @@ Finally, because My Match Data automatically stores all of your matches locally 
 
 <img src="https://user-images.githubusercontent.com/78046941/135384492-b93d520f-9325-4d7a-9324-17554d797928.jpeg" width="20%" alt="Customize Presets"> <img src="https://user-images.githubusercontent.com/78046941/135384522-9ed46542-c59d-4756-aaf4-5a198dadaa5d.jpeg" width="20%" alt="Enter Results"> <img src="https://user-images.githubusercontent.com/78046941/135384533-ecfb7dac-ddbf-48f8-8fe1-219fd9744f89.jpeg" width="20%" alt="View Stats"> <img src="https://user-images.githubusercontent.com/78046941/135384547-324bd19c-3e48-427f-82ef-ec650abe36f1.jpeg" width="20%" alt="Search Old Matches">
 
-## Release on App Store
+## App Store
 
 My Match Data was available on the iOS App Store from October 2019 to June 2020.
